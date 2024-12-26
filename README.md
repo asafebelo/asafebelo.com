@@ -2,6 +2,8 @@
 
 A Landing page do site foi criada utilizando o Hugo Framework, seguindo o template [Gokarna](https://github.com/gokarna-theme/gokarna-hugo). Por conta disso, deixarei abaixo os créditos a equipe responsável pelo projeto.
 
+Além disso, foi utilizado um domínio personalizado, ao qual foi configurado na CloudFlare, e consequentemente o CloudFlare Pages para a hospedagem da Landing Page.
+
 ### Créditos:
 
 - [Yash Mehrotra](https://yashmehrotra.com)
