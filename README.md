@@ -2,7 +2,7 @@
 
 A Landing page do site foi criada utilizando o Hugo Framework, seguindo o template [Gokarna](https://github.com/gokarna-theme/gokarna-hugo). Por conta disso, deixarei abaixo os créditos a equipe responsável pelo projeto.
 
-Além disso, foi utilizado um domínio personalizado, ao qual foi configurado na CloudFlare, e consequentemente o CloudFlare Pages para a hospedagem da Landing Page.
+Além disso, foi utilizado um domínio personalizado, ao qual foi configurado na CloudFlare, e consequentemente o **CloudFlare Pages** para a hospedagem da Landing Page.
 
 ### Créditos:
 
@@ -16,6 +16,7 @@ Além disso, foi utilizado um domínio personalizado, ao qual foi configurado na
 - [Mansoor Barri](https://mansoorbarri.com)
 
 ### Demo: [https://gokarna-hugo.netlify.app](https://gokarna-hugo.netlify.app)
+### Site Asafe Belo: [https://asafebelo.com/]
 
 ## Suporte ao Desenvolvedor
 
@@ -25,4 +26,4 @@ Uma vez que o site foi criado a partir do template Gokarna do Hugo Framework, de
 
 ## Licença Gokarna
 
-Esse código é licensiado por [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+Esse código é licenciado por [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
